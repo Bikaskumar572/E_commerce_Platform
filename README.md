@@ -47,13 +47,13 @@ Welcome to Flipkart-MERN, a full-stack e-commerce application complete with an A
 
 ## Sneak Peek of Admin Dashboard 🙈
 
-![Capture]()
+![Capture](https://github.com/Bikaskumar572/E_commerce_Platform/blob/main/Screenshot%202023-09-08%20132124.png)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg" alt="mockup" />
-  <img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" />
-  <img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" />
-  <img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" />
+  <img src="https://github.com/Bikaskumar572/E_commerce_Platform/blob/main/Screenshot%202023-09-08%20131420.png" alt="mockup" />
+  <img src="https://github.com/Bikaskumar572/E_commerce_Platform/blob/main/Screenshot%202023-09-08%20131514.png" alt="mockups" />
+  <img src="https://github.com/Bikaskumar572/E_commerce_Platform/blob/main/Screenshot%202023-09-08%20131732.png" alt="mockup" />
+  <img src="https://github.com/Bikaskumar572/E_commerce_Platform/blob/main/Screenshot%202023-09-08%20132016.png" alt="mockups" />
 </div>
 
 ## Contact
